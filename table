@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>table</title>
+</head>
+<body>
+	<table style="width: 70%" ; align="center"; border="3px solid red"> 
+		<tr>
+			<td width="200"></td>
+			<th width="200"> name</th>
+			<th width="200"> last name</th>
+			<th width="200"> old</th>
+			<th width="200"> general</th>
+			<th width="200"> id</th>
+			
+		</tr>
+		<tr>
+				<th width="200"> number1</th>
+				<td></td>
+				<td></td> <td></td> <td></td> <td></td>
+		</tr>
+		<tr>
+				<th width="200"> number2</th>
+				<td></td> <td></td> <td></td> <td></td> <td></td>
+		</tr>
+	</table>
+
+</body>
+</html>
